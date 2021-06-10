@@ -1,5 +1,5 @@
 ### Checkout news at [twodev.tech](http://twodev.tech)
-Member of Galathon Studio
+### Member of Galathon Studio
 
 <!--
 **Svenriksen/Svenriksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
