@@ -1,7 +1,7 @@
 ### readme readme and readme
 
 <!--
-**Sjnkarang/Sjnkarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Svenriksen/Svenriksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
