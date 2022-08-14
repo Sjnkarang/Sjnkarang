@@ -1,4 +1,4 @@
-### Checkout news at [twodev.tech](http://twodev.tech)
+### Checkout news at [svenriksen.com](http://svenriksen.com)
 ### Member of Galathon Studio
 
 <!--
