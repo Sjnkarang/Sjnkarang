@@ -1,4 +1,4 @@
-### Checkout news at [svenriksen.com](http://svenriksen.com)
+### Checkout news at [Incoming Dec 2023]()
 ### Member of Galathon Studio
 
 <!--
