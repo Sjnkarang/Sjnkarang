@@ -1,5 +1,5 @@
 ### Checkout news at [Incoming Dec 2023]()
-### Member of Galathon Studio
+### Usyd 26'
 
 <!--
 **Svenriksen/Svenriksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
