@@ -1,6 +1,8 @@
-### Checkout news at [TBA Dec 23]()
+### Checkout news at [TBA Dec 23](#)
 
-### Usyd 26'
+---
+
+## Usyd 26'
 
 <!--
 **Svenriksen/Svenriksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
