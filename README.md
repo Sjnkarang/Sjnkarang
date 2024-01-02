@@ -1,4 +1,4 @@
-### Checkout news at [TBA Dec 23](#)
+### Checkout news at [TBA](#)
 
 ---
 
